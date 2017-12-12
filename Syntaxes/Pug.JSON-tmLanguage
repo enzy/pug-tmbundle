@@ -39,7 +39,7 @@
       ]
     },
     {
-      "begin": "^(\\s*)-$",
+      "begin": "^(\\s*)-",
       "end": "^(?!(\\1\\s)|\\s*$)",
       "name": "source.js",
       "comment": "Unbuffered code block.",
